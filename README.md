@@ -80,4 +80,12 @@ Os dados do Dashboard são atualizados automaticamente com base nos lançamentos
 
 ---
 
+## 📊 Link da Planilha
+
+Acesse a planilha completa no Google Sheets:  
+[👉 Clique aqui para abrir a planilha](https://docs.google.com/spreadsheets/d/14BC7y7sIUc7cerFT-NuuBDaevcvQAnQ5oQ6Be7L-LDc/edit?usp=sharing)
+
+> Obs.: A planilha inclui abas automatizadas e o código App Script está versionado neste repositório.
+
+---
 Feito com ❤️ para facilitar seu controle financeiro!
