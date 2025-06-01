@@ -1,2 +1,7 @@
 ".clasp.json" 
 "node_modules/" 
+planilha/
+dados/
+*.csv
+*.xlsx
+*.json
